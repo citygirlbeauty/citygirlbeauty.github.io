@@ -17,6 +17,7 @@ body {
 header {
     text-align: center; /* aligns the text in the center */
     background-color: #8C5E58;
+
 }
 
 nav ul {
@@ -75,8 +76,12 @@ aside{
     width: 40%;
     height: 100%;
     padding: 10px;
+    padding-left: 40px;
     float: right;
     background-color: #3C0916;
-
+    position: center;
+    : #EFB5AE;
+    text-align: center;
+    color: #BD9391;
 }
 
