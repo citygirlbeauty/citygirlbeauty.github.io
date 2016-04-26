@@ -1,0 +1,80 @@
+body {
+    background-color: #F3D9DC;
+    font-family: Onyx;
+    font-size: 25px;
+}
+
+.container {
+    width: 80%; /* makes all content take up 80% no matter how wide the page is */
+    margin: 0 auto; /* removes top and bottom margins, left/right margins automatically determined */
+}
+
+
+.logo {
+    border-radius: 50%; /* rounds the corners of the square image so it displays as a circle */
+}
+
+header {
+    text-align: center; /* aligns the text in the center */
+    background-color: #8C5E58;
+}
+
+nav ul {
+    list-style-type: none; /* removes bullet points from list */
+    padding: 0; /* removes padding from ul */
+}
+
+nav li {
+    display: inline; /* displays list items next to each other */
+    padding: 0.5em; /* provides a bit of space between list items - look into the em value */
+}
+
+
+nav a:active, nav a:hover, nav a:visited, nav a:link {
+    text-decoration: none; /* in this case, removes default underline from the links */
+    color: #000000; /* changes font color to black */
+}
+
+nav a:hover {
+    font-weight: bold; /* makes font bold */
+    background-color: #cccccc; /* changes the bg color to gray */
+}
+
+/* styles for main content */
+
+#hero {
+    width: 100%; /* makes width of the hero image 100% of the .container */
+}
+
+
+
+
+
+footer {
+    font-size: 0.75em; /* changes the font size */
+    padding: 0.5em 0; /* adds padding on top/bottom, nothing on left/right */
+    text-align: center;
+}
+
+
+
+
+main {
+background-color: 
+}
+
+section{
+    width: 50%;
+    padding: 15px;
+    display: inline-block;
+    background-color: #C1ABA6;
+    text-align: center;
+}
+
+aside{
+    width: 35%;
+    padding: 15px;
+    float: right;
+    background-color: #3C0916;
+
+}
