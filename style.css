@@ -58,15 +58,13 @@ footer {
 }
 
 
-
-
 main {
     
 }
 
 section{
     width: 50%;
-    padding: 5px;
+    padding: 6px;
     display: inline-table;
     background-color: #C1ABA6;
     text-align: center;
