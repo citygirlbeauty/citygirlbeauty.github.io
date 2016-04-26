@@ -5,13 +5,13 @@ body {
 }
 
 .container {
-    width: 50%; /* makes all content take up 80% no matter how wide the page is */
+    width: 80%; /* makes all content take up 80% no matter how wide the page is */
     margin: 0 auto; /* removes top and bottom margins, left/right margins automatically determined */
 }
 
 
 .logo {
-    border-radius: 10%; /* rounds the corners of the square image so it displays as a circle */
+    border-radius: 50%; /* rounds the corners of the square image so it displays as a circle */
 }
 
 header {
@@ -43,7 +43,7 @@ nav a:hover {
 /* styles for main content */
 
 #hero {
-    width: 80%; /* makes width of the hero image 100% of the .container */
+    width: 100%; /* makes width of the hero image 100% of the .container */
 }
 
 
@@ -65,7 +65,7 @@ background-color:
 
 section{
     width: 70%;
-    padding: 5px;
+    padding: 10px;
     display: inline-block;
     background-color: #C1ABA6;
     text-align: center;
