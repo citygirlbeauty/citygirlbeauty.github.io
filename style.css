@@ -11,7 +11,7 @@ body {
 
 
 .logo {
-    border-radius: 50%; /* rounds the corners of the square image so it displays as a circle */
+    border-radius: 30%; /* rounds the corners of the square image so it displays as a circle */
 }
 
 header {
@@ -64,8 +64,8 @@ background-color:
 }
 
 section{
-    width: 50%;
-    padding: 15px;
+    width: 30%;
+    padding: 5px;
     display: inline-block;
     background-color: #C1ABA6;
     text-align: center;
